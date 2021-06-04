@@ -1,1 +1,1 @@
-# Credit risk evaluation in peer-to peer-lending data
+# Credit risk evaluation in P2P lending data
